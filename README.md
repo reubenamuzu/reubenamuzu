@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=764ba2&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=|%20Software%20Developer%20|&descAlignY=55" />
 
 #### Building scalable web applications and turning ideas into reality.
-
-  <img src="https://komarev.com/ghpvc/?username=Amson-tECH&color=0e75b6&style=flat" alt="profile views" />
+[![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubenamuzu)](https://github.com/reubenamuzu/github-readme-stats)
+  <img src="https://komarev.com/ghpvc/?username=reubenamuzu&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <div align="center">
