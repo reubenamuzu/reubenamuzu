@@ -1,9 +1,15 @@
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=764ba2&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20%40%20Digital%20Bridge%20HUB&descAlignY=55&descSize=18" />
+</div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=764ba2&height=200&section=header&text=Reuben%20Korsi%20Amuzu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=|%20Software%20Developer%20|&descAlignY=55" />
+  <img src="https://komarev.com/ghpvc/?username=reubenamuzu&color=764ba2&style=flat-square&label=Profile+Views" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/reubenamuzu?style=flat-square&color=764ba2&label=Followers" />
+  <a href="https://github.com/reubenamuzu?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/reubenamuzu?style=flat-square&color=764ba2&label=Total+Stars" />
+  </a>
+</div>
 
-#### Building scalable web applications and turning ideas into reality.
-
-  <img src="https://komarev.com/ghpvc/?username=reubenamuzu&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 <div align="center">
@@ -75,17 +81,21 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=reubenamuzu&show_icons=true&theme=tokyonight" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reubenamuzu&layout=compact&theme=tokyonight" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reubenamuzu&theme=tokyonight" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=reubenamuzu&theme=darkhub&row=1" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reubenamuzu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reubenamuzu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+</div>
+<div align="center">
+  <!-- FIXED: Using the reliable Vercel-hosted alternative instead of demolab -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=reubenamuzu&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <!-- Activity graph - great addition! -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reubenamuzu&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
 ---
