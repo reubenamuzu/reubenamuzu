@@ -26,11 +26,11 @@ I'm a full-stack developer and Applied AI engineer building fintech, SaaS, and A
 
 ```python
 class Amson:
-    location    = "Kumasi, Ghana"
+    location    = "Accra, Ghana"
     role        = "Full-Stack Developer & Applied AI Engineer"
     stack       = ["JavaScript", "TypeScript", "Python", "Java",
                    "Next.js", "Node.js", "NestJS", "PostgreSQL", "Prisma"]
-    interests   = ["Fintech & SaaS for West Africa", "LLM Integration", "RAG Pipelines"]
+    interests   = ["Fintech & SaaS for West Africa", "LLM Integration", "RAG Pipelines","Gaming - Blood Strike, Fifa"]
     currently   = ["Building VoteFlow — a voting SaaS for West Africa",
                    "Growing AmsonTech, my tech content brand"]
     philosophy  = "Just Do It"
