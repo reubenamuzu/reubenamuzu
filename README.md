@@ -35,7 +35,7 @@ class Amson:
     interests   = ["Fintech & SaaS for West Africa", "LLM Integration", "RAG Pipelines"]
     currently   = ["Building VoteFlow — a voting SaaS for West Africa",
                    "Growing AmsonTech, my tech content brand"]
-    philosophy  = "Add your own line here"
+    philosophy  = "Just Do It"
 ```
 
 ### 🛠️ Tech Stack
