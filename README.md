@@ -18,9 +18,9 @@
 
 </div>
 
-### 👋 About
+## 👋 About
 
----
+
 
 I'm a full-stack developer and Applied AI engineer building fintech, SaaS, and AI-powered products for West African markets.
 
@@ -44,11 +44,11 @@ public class Amson {
 }
 ```
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
  
----
+
  
 
 **Languages & Core Technologies**
@@ -105,9 +105,9 @@ public class Amson {
 
 </div>
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
----
+
 
 **UniWallet — Mobile Money Aggregator**
 
@@ -149,9 +149,9 @@ A no-code platform for building AI chatbots, with a retrieval-augmented generati
 
 
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
----
+
 
 
 <div align="center">
@@ -165,7 +165,7 @@ A no-code platform for building AI chatbots, with a retrieval-augmented generati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reubenamuzu&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
----
+##
 
 
 <div align="center">
