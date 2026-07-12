@@ -1,6 +1,6 @@
 <div align="center">
 
-## Reuben Korsi Amuzu
+## Reuben Korsi Amuzu (Amson Dev)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Developer+%26+Applied+AI+Engineer;Building+fintech%2C+SaaS+%26+AI-powered+products;JavaScript+%7C+Python+%7C+Java)](https://github.com/reubenamuzu)
