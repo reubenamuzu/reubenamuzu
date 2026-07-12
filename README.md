@@ -22,7 +22,7 @@
 
 
 
-I'm a full-stack developer and Applied AI engineer building fintech, SaaS, and AI-powered products for West African markets.
+I'm a full-stack developer and Applied AI engineer based in Accra, Ghana, building fintech, SaaS, and AI-powered products for West African markets. I work primarily with Next.js, Node.js, and PostgreSQL, and I'm currently deepening my knowledge of the Java ecosystem — Spring Boot in particular. Outside of that, I'm usually deep in a side project or exploring what's next in AI tooling.
 
 ```java
 public class Amson {
